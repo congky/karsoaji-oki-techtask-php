@@ -15,7 +15,7 @@ in the prject folder. You can create your own test file, by placing it in the te
 - Run `symfony serve`
 
 ## Endpoint support
-- [/lunch](https://github.com/congky/karsoaji-oki-techtask-php/new/master?readme=1#lunch)
+- [/lunch](#lunch)
 
 ## /lunch
 parameter :
